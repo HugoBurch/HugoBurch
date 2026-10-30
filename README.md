@@ -8,8 +8,7 @@ Atualmente, estou direcionando meus estudos para o desenvolvimento de software, 
 
 Gosto de entender como as coisas funcionam, resolver problemas e aprender novas tecnologias. Neste GitHub, compartilho meus projetos acadêmicos, estudos e minha evolução como desenvolvedor.
 
-<p align="left">
-
+<p>
     <a href="https://hugoburch.github.io">
         <img
             alt="Portfólio"
